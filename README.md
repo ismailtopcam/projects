@@ -1,1 +1,2 @@
 # projects
+Ilk proje denemesi
